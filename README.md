@@ -1,2 +1,2 @@
 # for-speakers
-Information for GDG Odessa event speakers
+Information for GDG Odesa event speakers
